@@ -1,0 +1,15 @@
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/bin/Debug/net6.0/Task21
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/bin/Debug/net6.0/Task21.deps.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/bin/Debug/net6.0/Task21.runtimeconfig.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/bin/Debug/net6.0/Task21.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/bin/Debug/net6.0/Task21.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.csproj.AssemblyReference.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.AssemblyInfoInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.AssemblyInfo.cs
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.csproj.CoreCompileInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/refint/Task21.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/Task21.genruntimeconfig.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/Task21/obj/Debug/net6.0/ref/Task21.dll
