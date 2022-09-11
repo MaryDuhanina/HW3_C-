@@ -1,0 +1,15 @@
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/bin/Debug/net6.0/Task23
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/bin/Debug/net6.0/Task23.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Seminar3/HW3_C#/Task23/obj/Debug/net6.0/ref/Task23.dll
